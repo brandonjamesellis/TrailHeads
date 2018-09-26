@@ -1,0 +1,23 @@
+{
+  "name": "trailheads",
+  "version": "0.0.1",
+  "description": "Application using MongoDB, Express, nodeJS,",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonjamesellis/TrailHeads.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonjamesellis/TrailHeads/issues"
+  },
+  "homepage": "https://github.com/brandonjamesellis/TrailHeads#readme",
+  "dependencies": {
+    "mongoose": "^5.2.17"
+  }
+}
